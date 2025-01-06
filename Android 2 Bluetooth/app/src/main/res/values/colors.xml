@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_700">#532A0F</color>
+    <color name="green_701">#777777</color>
+    <color name="green_702">#00FF00</color>
+    <color name="green_703">#008000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="my_button_color">#FF5722</color> <!-- Naranja -->
+    <color name="my_text_color">#FFFFFF</color>   <!-- Blanco -->
+</resources>

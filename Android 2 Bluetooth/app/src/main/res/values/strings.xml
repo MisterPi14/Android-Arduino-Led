@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Programa1</string>
+    <string name="description_button_on">Botón de encendido</string>
+    <string name="description_button_off">Botón de apagado</string>
+</resources>
